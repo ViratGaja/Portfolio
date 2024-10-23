@@ -94,7 +94,7 @@ p{
     justify-content: center;
     align-items: center;
     height: 100%;
-    width: 80%;
+    width: 100%;
   }
   
   .address-content {
@@ -145,6 +145,13 @@ p{
   
     .address-item p {
       font-size: 18px;
+    }
+    .address {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100%;
+      width: 80%;
     }
   }
   .custom_nav{
@@ -576,8 +583,8 @@ p{
 
 
 .img{
-  width: 66%;
-  height: 225px;
+  width: 64%;
+  height: 259px;
   object-fit: cover;
   border-radius: 15px;
   margin: 15px 0;

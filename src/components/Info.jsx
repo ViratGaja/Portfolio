@@ -26,7 +26,7 @@ const Info = () => {
                                   <div className='social'>
                                     
                                     <div className='media d-flex justify-content-center align-items-center'>
-                                        <a href="https://www.naukri.com/mnjuser/profile" className='text-white' target="_blank" rel="noreferrer">
+                                        <a href="https://www.naukri.com/mnjuser/profile?id=&altresid" className='text-white' target="_blank" rel="noreferrer">
                                             <FaBriefcase className="icon" />
                                         </a>
                                     </div>
