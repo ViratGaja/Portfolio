@@ -14,11 +14,11 @@
         </div>
         <div className="container">
         <Info/>
-        <div className="custom_card_1 mb-4">
+        <div className="custom_card_1 mb-4"> 
             <div className="row">
                 <Nav/>
                 <div className="col-md-10">
-                            <div className="     mt-5 mb-4">
+                            <div className=" card mt-5 mb-4" style={{border:"  1px solid rgb(255 255 255 / 8%)"}} >
                                 <div className="card-body">
                                     <div className="row mt-5">
                                         <div className="col-lg-6 col-12">
