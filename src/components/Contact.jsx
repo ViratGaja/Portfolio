@@ -18,7 +18,7 @@ const Contact = () => {
         <Nav/>
         <div className="col-md-10">
                     <div className="card mt-5 mb-4 ">
-                        <div className="card-body">
+                        <div className="card-body" style={{border:"  1px solid rgb(255 255 255 / 8%)"}}>
                             <div className="row mt-5">  
                              <div className="col-lg-6">
                              <div className="card p-3 p-sm-5 contact mt-4 mb-5" style={{border:"  1px solid rgb(255 255 255 / 8%)"}}>
