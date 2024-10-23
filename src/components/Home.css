@@ -185,9 +185,9 @@ p{
     .do_info{
       padding: 5px !important;
     }
-    .card-body{
+    /* .card-body{
       border: 1px solid rgb(255 255 255 / 8%);
-    }
+    } */
     
     .custom_title{
       text-align: center;
