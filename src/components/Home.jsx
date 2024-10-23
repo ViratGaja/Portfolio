@@ -19,7 +19,7 @@ const Home = () => {
     <div className="banner-image image-container">
         <img src={Image} className='banner_img' alt="" />
     </div>
-    <div className="container">
+    <div className="container mt-2">
      <Info/>
       <div className="custom_card_1 mb-4">
         <div className="row">
