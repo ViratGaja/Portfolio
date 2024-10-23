@@ -105,7 +105,7 @@ const Home = () => {
         </div>
       <div className="row ">
         <div className="col-md-12">
-          <p className='text-center footer mt-5 mb-5'>© 2024. All rights reserved by Gajapathi.</p>
+          <p className='text-center footer mt-5 mb-5'>© 2024. All rights reserved by Gajapathi.fdsfsdfsdfs</p>
 
         </div>
       </div>
