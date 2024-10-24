@@ -36,7 +36,7 @@ const Info = () => {
                                     </div>  
                                     <div className='media d-flex justify-content-center align-items-center'>
                                     <a 
-                                    href="https://github.com/YourGitHubUsername" 
+                                    href="https://github.com/ViratGaja" 
                                     className='text-white' 
                                     target="_blank" 
                                     rel="noreferrer"  
