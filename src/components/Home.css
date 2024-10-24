@@ -145,6 +145,7 @@ p{
   
     .address-item p {
       font-size: 18px;
+      letter-spacing: 1px;
     }
     .address {
       display: flex;
@@ -206,7 +207,7 @@ p{
     }
     .img{
       width: 100% !important;
-      height: 225px;
+      height: auto !important;
       object-fit: cover;
       border-radius: 15px;
       margin: 15px 0;

@@ -1,5 +1,5 @@
 import React from 'react'
-import { FaFacebookF, FaInstagram, FaLinkedinIn,FaArrowRight, FaReact,FaNodeJs,FaBriefcase  } from 'react-icons/fa';
+import { FaFacebookF, FaInstagram, FaLinkedinIn,FaArrowRight, FaReact,FaNodeJs,FaBriefcase,FaGithub   } from 'react-icons/fa';
 import Image from '../assets/images/profile.jpeg'
 const Info = () => {
   return (
@@ -35,8 +35,15 @@ const Info = () => {
                                     <FaLinkedinIn className="icon" /></a>
                                     </div>  
                                     <div className='media d-flex justify-content-center align-items-center'>
-                                    <a href="#" className='text-white' target="_blank" rel="noreferrer">
-                                    <FaFacebookF className="icon" /></a>
+                                    <a 
+                                    href="https://github.com/YourGitHubUsername" 
+                                    className='text-white' 
+                                    target="_blank" 
+                                    rel="noreferrer"  
+                                >
+                                    <FaGithub  className="icon mx-4" />
+                                </a>
+                                    <FaGithub className="icon " />
                                     </div>
                                   </div>
                                   </div>
