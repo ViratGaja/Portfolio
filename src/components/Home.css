@@ -120,9 +120,10 @@ p{
   }
   
   .address-item p {
-    font-size: 18px;
+    font-size: 17px;
     color: #c4cfde;
-    margin: 0.5rem -3px 0 0;
+    margin: .5rem -3px 0 0;
+    letter-spacing: 0.5px;
   }
   
   @media (max-width: 768px) {
