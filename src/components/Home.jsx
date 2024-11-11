@@ -10,7 +10,7 @@ import {
   FaPaintBrush,
   FaMobileAlt,
 } from "react-icons/fa";
-import Image from "../assets/images/new_banner.jpg";
+import Image from "../assets/images/update_banner.jpg";
 import Info from "./Info";
 import Nav from "./Nav";
 import "../App.css";

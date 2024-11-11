@@ -9,9 +9,9 @@ import {
   FaNodeJs,
   FaGithub,
 } from "react-icons/fa";
-import Image from "../assets/images/new_banner.jpg";
+import Image from "../assets/images/update_banner.jpg";
 import Info from "./Info";
-import Nav from "./Nav";
+import Nav from "./Nav"; 
 import About from "../assets/images/profile.jpeg";
 const Contact = () => {
   return (
